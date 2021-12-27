@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeedCalc</string>
+    <string name="radFlower">Flower</string>
+    <string name="radLiquid">Liquid</string>
+    <string name="radEdible">Edible</string>
+    <string name="txtFlower">Flower</string>
+    <string name="txtLiquid">Liquid</string>
+    <string name="txtEdible">Edible</string>
+    <string name="txtResult">Result</string>
+    <string name="btnCalculate">Calculate</string>
+</resources>
